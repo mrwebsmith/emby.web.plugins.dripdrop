@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "Some Wet-n-Wild* Awesome* sound effects for Emby Theater by Fanboy MrWebSmith",
     "plugin": "plugin.js",
-    "bugs": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects/issues"
+    "bugs": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects/issues",
     "homepage": "https://github.com/mrwebsmith/emby.web.plugins.dripdrop",
     "thumb": "",
     "backdrop": ""
