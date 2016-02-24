@@ -6,6 +6,6 @@
     "plugin": "plugin.js",
     "bugs": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects/issues",
     "homepage": "https://github.com/mrwebsmith/emby.web.plugins.dripdrop",
-    "thumb": "",
-    "backdrop": ""
+    "thumb": "dripdropthumb.png",
+    "backdrop": "dripdropbackdrop.png"
 }
